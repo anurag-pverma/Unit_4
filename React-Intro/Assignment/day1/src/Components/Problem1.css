@@ -1,0 +1,48 @@
+.manufactures{
+align-items: flex-start;
+justify-items: first baseline;
+}
+
+.same{
+    
+    width: 100px;
+    padding: 8px;
+    border: 1px solid green;
+    background-color: rebeccapurple;
+    border-radius: 15px;
+    margin: 10px;
+    /* margin-left: 600px; */
+}
+.spread{
+    display: grid;
+   
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.single>li{
+    width: 100px;
+    padding: 8px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.list1{
+    background-color: aqua;
+}
+.list2{
+    background-color: rgb(43, 0, 255);
+}
+.list3{
+    background-color: rgb(3, 38, 38);
+}
+.list4{
+    background-color: chocolate;
+}
+.list6{
+    background-color: darkcyan;
+}
+.list7{
+    background-color: darkkhaki;
+}
+.list7{
+    background-color: deeppink;
+}

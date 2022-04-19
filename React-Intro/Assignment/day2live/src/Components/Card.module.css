@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    margin :auto;
+    width :500px;
+    border: 2px solid grey;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10;
+}
+.left__content img{
+ width: 200px;
+ height: 200px;
+}
+
