@@ -1,0 +1,33 @@
+{
+  "users": [
+    {},
+    {},
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Anurag Verma",
+      "age": "34",
+      "address": "A-418 New Seemapuri, A - 418 New Seemapuri",
+      "department": "Instructional Associate",
+      "salary": "45000",
+      "martialState": "on",
+      "id": 6
+    },
+    {
+      "name": "pradeep verma",
+      "age": "50",
+      "address": "hojlojlsjkpjkjhojjopklksj",
+      "department": "Instructional Associate",
+      "salary": "569792",
+      "martialState": "on",
+      "id": 7
+    }
+  ]
+}
