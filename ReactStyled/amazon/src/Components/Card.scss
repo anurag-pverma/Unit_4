@@ -1,0 +1,73 @@
+.main{
+    background-color: orange;
+    height: 500px;
+    width: 650px;
+}
+
+.logo{
+  height: 150px;
+  width: 150px;
+  margin-left: 320px;
+}
+.logo img{
+    image-orientation: flip;
+    -o-transform: rotate();
+}
+
+.date{
+    font-size: 25px;
+    // margin-bottom: 100px;
+    margin-left: 25px;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.caseStudey{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 140px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 400px;
+    // margin-bottom: 50px;
+    padding-bottom: 0;
+}
+
+.gift{
+font-size: 40px;
+margin-right: 320px;
+padding-bottom: 0;
+}
+
+.pay{
+    font-size: 40px;
+margin-right: 400px;
+padding-bottom: 0;
+}
+
+.below{
+    display: flex;
+}
+
+.arrow{
+    font-size: 40px;
+    margin-left: 300px;
+}
+.mobile{
+    font-size: 25px;
+    margin-left: 20px;
+    
+}
+
+.apple{
+    background-color: #fff;
+    height: 500px;
+    width: 650px;
+    border: 1px solid  whitesmoke;
+}
