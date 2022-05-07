@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.app-heading{
+  color:rgb(108, 42, 231);
+
+}
+button {
+  font-size: calc(10px + 2vmin);
+} 

@@ -1,0 +1,10 @@
+.App {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
