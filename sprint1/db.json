@@ -1,0 +1,58 @@
+{
+  "details": [
+    {
+      "name": "Bhupesh kumawat",
+      "age": "23",
+      "address": "dcddv",
+      "department": "sales",
+      "salary": "223232",
+      "married": true,
+      "id": 1
+    },
+    {
+      "name": "Iyana ",
+      "age": "23",
+      "address": "dcddv",
+      "department": "operations",
+      "salary": "23232",
+      "married": true,
+      "id": 2
+    },
+    {
+      "name": "Iyana ",
+      "age": "345",
+      "address": "fghnghng",
+      "department": "sales",
+      "salary": "4545",
+      "married": true,
+      "id": 3
+    },
+    {
+      "name": "shoe 1",
+      "age": "23",
+      "address": "3r3333ddfd",
+      "department": "sales",
+      "salary": "343434",
+      "married": false,
+      "id": 4
+    },
+    {
+      "name": "Iyana ",
+      "age": "2323",
+      "address": "dcddv",
+      "department": "operations",
+      "salary": "232323",
+      "married": false,
+      "id": 5
+    },
+    {
+      "name": "shoe 1",
+      "age": "23",
+      "address": "wefwef",
+      "department": "operations",
+      "salary": "2323",
+      "married": true,
+      "id": 6
+    }
+  ]
+}

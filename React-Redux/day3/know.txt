@@ -1,0 +1,19 @@
+what is rdux
+ redux is library to manage of application '
+
+ what is feature state container for js app
+ a predictable  container for js. apps
+centrally 
+predicatable 
+--------.>
+
+how to get started with redux in react 
+install redux an react-redux
+wrap application inside provider and pass store to it 
+create initial state // not common 
+create reducer 
+Creater 
+
+how to dispatch an action
+how to read data form store
+reamaining action 

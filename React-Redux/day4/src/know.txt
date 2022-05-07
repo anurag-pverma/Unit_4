@@ -1,0 +1,16 @@
+write the  better code 
+giving it proper architecture
+optimization advanced 
+folder wise
+redux directory
+feature wise  like counter todo 
+ 
+**********
+combined reducer = bisically it h elps us to make all reducer to combine and make one reducers 
+devtoools 
+setup redux--->1
+counter -> action.js and reducer.js
+todo --> action.js and reducer.js
+setup store {use combinereducer to baiscally user both the reduce}
+one sotre is setup ---> we are gone wrap application that comes with react-redux
+so that our entire application has access to the store :(useselecter , useDispatch)

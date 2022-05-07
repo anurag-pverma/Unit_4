@@ -1,0 +1,92 @@
+.todo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.todo > form {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 5px 20px;
+  border-radius: 5px;
+  background-color: rgb(206, 243, 243);
+}
+
+.todo > h1 {
+  color: tomato;
+  text-decoration: underline;
+  letter-spacing: 3px;
+  margin:0px;
+  margin-bottom:5px
+}
+
+.todo > form > input {
+  font-size: 25px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  outline: none;
+}
+form >button {
+  font-size: 25px;
+  padding: 6px 30px;
+  border: none;
+  background-color: #000;
+  color: #fff;
+  margin: 0px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cyanColor {
+  background-color: rgb(206, 243, 243);
+  transition: all 0.4s ease-in-out;
+  height:100vh
+}
+.blackColor {
+  background-color: #000;
+  transition: all 0.4s ease-in-out;
+  height: 100vh;
+}
+
+.nightMode {
+  color: rgb(240, 240, 82);
+  background-color:#000;
+  padding-bottom: 10px;
+}
+.nightMode>button{
+  padding: 8px 15px;
+  color: rgb(240, 240, 82);
+  background-color:red;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 55px;
+  font-size: 20px;
+}
+.btnBack {
+  background-color: rgb(43, 58, 226);
+}
+.white {
+  color: #fff;
+}
+
+p{
+  margin:0px;
+  margin-left: 20px;
+}
+.todo> div{
+  margin-top:20px;
+  display: flex;
+}
+.todo> div>button{
+  padding: 8px;
+  font-size:16px;
+  border-radius: 5px;
+  border: 1px solid red;
+}
+button[disabled]{
+  cursor: not-allowed;
+}
+button{
+  cursor: pointer;
+}

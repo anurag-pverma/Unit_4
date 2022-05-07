@@ -1,0 +1,25 @@
+#todoItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:0px 10px
+}
+
+#todoItem > div > button {
+  margin: 0px 10px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #000;
+  cursor: pointer;
+  color: #fff;
+}
+#todoItem > h1 {
+  text-transform: capitalize;
+  margin:10px ;
+  font-size: 18px;
+}
+#todoItem > div > button[disabled] {
+  cursor: not-allowed;
+  background-color: grey;
+}

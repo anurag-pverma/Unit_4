@@ -1,0 +1,61 @@
+.form{
+    display: flex;
+    align-items: center;
+   justify-content:space-around
+}
+.form>form{
+    margin:30px 0px;
+    background-color:rgb(25, 177, 65);
+    padding:20px;
+    border-radius: 5px;
+    width:30%;
+    color: crimson;
+}
+.form>form>input{
+    padding:5px;
+    font-size: 20px;
+    width:97%;
+    margin:10px 0px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+}
+.form>form label{
+    color:#fff;
+    font-size:20px;
+}
+
+select{
+padding:10px;
+outline: none;
+margin:10px 0px
+}
+
+select option{
+    padding:10px;
+}
+input[type="checkbox"]{
+   font-size:20px
+}
+
+button{
+    font-size:20px;
+    background-color:#fff;
+    padding:10px;
+    width:100%;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor:pointer;
+    text-transform:uppercase
+}
+.form>form>div:last-child{
+    display: flex;
+    justify-content: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
