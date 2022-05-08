@@ -17,7 +17,7 @@ export default function AppleCard() {
           <h3 className="pay">Pay</h3>
           <div className="below">
             <p className="mobile">MacOs -Mobiles</p>
-            <p className="arrow"> -> </p>
+            <p className="arrow"> ---></p>
           </div>
         </div>
       </center>
