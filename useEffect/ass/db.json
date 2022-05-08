@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "value": "hello ",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "my name is anurag verma",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "value": "jai shriiiiii Ram",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "value": "jai bajrang Dal",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "value": "hare rama hare krishna",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "value": "jai ram ji",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "value": "jai hanuman jai bajrang dal",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "value": "is it working or not",
+      "completed": false,
+      "id": 8
+    }
+  ]
+}
